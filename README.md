@@ -1,1 +1,1 @@
-# teamtracker
+ECHO is on.
